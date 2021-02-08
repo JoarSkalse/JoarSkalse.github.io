@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil student in Computer Science at Oxford University. I am a DPhil Scholar at the [Future of Humanity Institute](), and am supervised by Professor [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/).
+I am a DPhil student in Computer Science at Oxford University, as a DPhil Scholar at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/). My supervisor is Professor [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/).
 
 My research is on machine learning, and how to make AI systems safe and reliable. My current thesis title is “Safe Reinforcement Learning”, but my broader interests include everything from cognitive science to formal epistemology. In the past I have done research in areas such as philosophical decision theory, constrained reinforcement learning, computational learning theory, inductive logic programming, and active learning with neural networks.
 
