@@ -3,7 +3,8 @@ title: "Reinforcement Learning in Newcomblike Environments"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper we study the behaviour of model-free reinforcement learning algorithms in Newcomblike environments, and what decision theory such algorithms implicitly implement. We find that they adhere to ratificationism.'
-date: 2020
+date: 2021-02-04
+venue: 'unpublished'
 paperurl: 'https://users.cs.duke.edu/~ocaspar/NDPRL.pdf'
 citation: 'James Bell, Linda Linsefors, Caspar Oesterheld, and Joar Skalse (2020). Reinforcement Learning inNewcomblike Environments.'
 ---
