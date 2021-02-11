@@ -1,9 +1,9 @@
 ---
-title: "Reinforcement Learning in Newcomblike Environments"
+title: "Risks from Learned Optimization in Advanced Machine Learning Systems"
 collection: publications
-permalink: /publication/reinforcement-learning-in-newcomblike-environments
-excerpt: 'In this paper we study the behaviour of model-free reinforcement learning algorithms in Newcomblike environments, and what decision theory such algorithms implicitly implement. We find that they adhere to ratificationism.'
-date: 2021-02-04
+permalink: /publication/risks-from-learned-optimization
+excerpt: 'In this paper we model the relationship between an RL agent&apos;s function approximator(s) and its learning algorithm as an instance of a principal-agent problem, and use this framework to identify several potential safety problems in powerful (future) RL systems. This paper originated the term $quot;mesa-optimiser$quot;'
+date: 2019-06-11
 venue: 'unpublished'
 paperurl: 'https://users.cs.duke.edu/~ocaspar/NDPRL.pdf'
 citation: 'James Bell, Linda Linsefors, Caspar Oesterheld, and Joar Skalse (2020). Reinforcement Learning in Newcomblike Environments.'
