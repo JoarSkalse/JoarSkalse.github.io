@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning in Newcomblike Environments"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/reinforcement-learning-in-newcomblike-environments
 excerpt: 'In this paper we study the behaviour of model-free reinforcement learning algorithms in Newcomblike environments, and what decision theory such algorithms implicitly implement. We find that they adhere to ratificationism.'
 date: 2021-02-04
 venue: 'unpublished'
