@@ -1,7 +1,7 @@
 ---
 title: "Is SGD a Bayesian sampler? Well, almost."
 collection: papers
-permalink: /papers/is-sgd-a-bayesian-sampler
+permalink: papers/is-sgd-a-bayesian-sampler
 excerpt: 'In this paper we provide extensive empirical evidence that SGD (and related optimisers) behave approximately like Bayesian samplers. This is in turn strong evidence that the inductive bias of neural networks comes primarily from their parameter-function map, rather than SGD (which is commonly assumed).
 
 A summary of this research can be found [here](https://towardsdatascience.com/neural-networks-are-fundamentally-bayesian-bee9a172fad8).'
