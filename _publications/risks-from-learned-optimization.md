@@ -2,7 +2,7 @@
 title: "Risks from Learned Optimization in Advanced Machine Learning Systems"
 collection: publications
 permalink: /publication/risks-from-learned-optimization
-excerpt: 'In this paper we model the relationship between an RL agent&apos;s function approximator(s) and its learning algorithm as an instance of a principal-agent problem, and use this framework to identify several potential safety problems in powerful (future) RL systems. This paper originated the term $quot;mesa-optimiser$quot;'
+excerpt: 'In this paper we model the relationship between an RL agent&apos;s function approximator(s) and its learning algorithm as an instance of a principal-agent problem, and use this framework to identify several potential safety problems in powerful (future) RL systems. This paper originated the term "mesa-optimiser"'
 date: 2019-06-11
 venue: 'unpublished'
 paperurl: 'https://www.fhi.ox.ac.uk/wp-content/uploads/1906.01820.pdf'
