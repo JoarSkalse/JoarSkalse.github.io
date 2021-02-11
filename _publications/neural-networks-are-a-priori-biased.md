@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks Are A Priori Biased Towards Boolean Functions With Low Entropy."
-collection: publications
-permalink: /publication/neural-networks-are-a-priori-biased
+collection: papers
+permalink: /papers/neural-networks-are-a-priori-biased
 excerpt: 'In this paper we show analytically that neural networks have a certain built-in simplicity bias upon initialisation.'
 date: 2020-01-02
 venue: 'unpublished'
