@@ -1,6 +1,6 @@
 ---
 title: "A General Counterexample to Any Decision Theory and Some Responses"
-collection: publications
+collection: papers
 permalink: /papers/a-general-counterexample-to-any-decision-theory
 excerpt: 'This is a paper on analytic philosophy, in which I present a general schema that can be used to contruct a problem case for any decision theory.'
 date: 2021-01-01
