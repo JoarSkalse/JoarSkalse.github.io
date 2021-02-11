@@ -1,7 +1,7 @@
 ---
 title: "Risks from Learned Optimization in Advanced Machine Learning Systems"
 collection: publications
-permalink: /publication/risks-from-learned-optimization.md
+permalink: /publication/risks-from-learned-optimization
 excerpt: 'In this paper we model the relationship between an RL agent's function approximator(s) and its learning algorithm as an instance of a principal-agent problem, and use this framework to identify several potential safety problems in powerful (future) RL systems.'
 date: 2019-06-11
 venue: 'unpublished'
