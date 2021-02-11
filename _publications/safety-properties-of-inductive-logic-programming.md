@@ -1,7 +1,7 @@
 ---
 title: "Safety Properties of Inductive Logic Programming."
-collection: publications
-permalink: /publication/safety-properties-of-inductive-logic-programming
+collection: papers
+permalink: papers/safety-properties-of-inductive-logic-programming
 excerpt: 'This paper investigates the safety properties of inductive logic programming (ILP) as a paradigm of machine learning.'
 date: 2021-02-08
 venue: 'AAAI 2021'
